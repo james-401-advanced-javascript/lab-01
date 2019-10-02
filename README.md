@@ -6,7 +6,7 @@
 
 ### Links and Resources
 * [submission PR](https://github.com/james-401-advanced-javascript/lab-01/pull/1)
-* [travis](https://travis-ci.com/james-401-advanced-javascript/lab-01
+* [travis](https://travis-ci.com/james-401-advanced-javascript/lab-01)
 * [front-end](http://xyz.com)
 
 #### Documentation
