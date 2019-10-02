@@ -6,11 +6,11 @@
 
 ### Links and Resources
 * [submission PR](https://github.com/james-401-advanced-javascript/lab-01/pull/1)
-* [travis](http://xyz.com)
+* [travis](https://travis-ci.com/james-401-advanced-javascript/lab-01
 * [front-end](http://xyz.com)
 
 #### Documentation
-* [jsdoc](http://xyz.com)
+* [jsdoc](https://jamesdunn-lab-01.herokuapp.com/docs)
 
 ### Modules
 #### `validator.js`
