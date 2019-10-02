@@ -5,7 +5,7 @@
 ### Author: James Dunn
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/james-401-advanced-javascript/lab-01/pull/1)
 * [travis](http://xyz.com)
 * [front-end](http://xyz.com)
 
