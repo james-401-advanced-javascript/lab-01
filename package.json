@@ -4,14 +4,17 @@
   "description": "this will be sooooo cool",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint '**/*.js'",
     "test": "jest --verbose --coverage",
-    "lint": "eslint '**/*.js'"
+    "test-watch": "jest --watchAll --verbose --coverage",
+    "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json"
   },
-  "author": "",
+  "author": "James Dunn",
   "license": "ISC",
   "dependencies": {
     "eslint": "^6.1.0",
     "eslint-plugin-react": "^7.14.3",
-    "jest": "^24.8.0"
+    "jest": "^24.8.0",
+    "express": "^4.17.1"
   }
 }
