@@ -71,7 +71,7 @@ describe('validator module performs basic validation of', () => {
 
 });
 
-describe('validator module performs complex validations', () => {
+xdescribe('validator module performs complex validations', () => {
 
   it('validates the presence of required object properties at any level', () => {
     // i.e. does person.hair.color exist and have a good value, not just person.hair
